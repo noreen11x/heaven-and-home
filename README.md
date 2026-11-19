@@ -40,6 +40,10 @@ heaven-and-home/
 | User Dashboard | After login |
 | Admin Dashboard | "Admin" badge (after login) |
 
+## 📋 Project management
+
+This site was planned as a full software project: charter, WBS, critical path, Gantt chart, RACI, and risk, quality and communication plans. See [`docs/project-management`](docs/project-management).
+
 ## 🛠 Build for Production
 ```bash
 npm run build
